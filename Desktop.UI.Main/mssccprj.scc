@@ -1,0 +1,16 @@
+SCC = This is a Source Code Control file
+
+[ParseIt.Desktop.UI.AccountAdmin.csproj]
+SCC_Aux_Path=gtcp://192.168.1.10
+SCC_Project_Name="$/Parseit/Version_1.0.0.0/ParseIt.Desktop/UI/ParseIt.Desktop.UI/ParseIt.Desktop.UI.AccountAdmin", SFNBAAAA
+[ParseIt.Desktop.UI.AccountAdmin.sln]
+SCC_Aux_Path=gtcp://192.168.1.10
+SCC_Project_Name="$/Parseit/Version_1.0.0.0/ParseIt.Desktop/UI/ParseIt.Desktop.UI/ParseIt.Desktop.UI.AccountAdmin", SFNBAAAA
+
+[Desktop.UI.AccountAdmin.csproj]
+SCC_Aux_Path = "\\10.2.10.204\C$\ISOSource"
+SCC_Project_Name = "$/Desktop/Desktop/Desktop.UI.AccountAdmin", MTBAAAAA
+
+[Desktop.UI.MainApp.csproj]
+SCC_Aux_Path = "\\10.2.10.204\C$\ISOSource"
+SCC_Project_Name = "$/Desktop.root/Desktop/Desktop.UI.Main", FDFAAAAA

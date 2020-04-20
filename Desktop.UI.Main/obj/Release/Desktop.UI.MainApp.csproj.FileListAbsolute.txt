@@ -1,0 +1,14 @@
+F:\Archive Source\KapitvationDev\DesktopPublish\PasswordStore\PasswordStore.exe.config
+F:\Archive Source\KapitvationDev\DesktopPublish\PasswordStore\PasswordStore.exe
+F:\Archive Source\KapitvationDev\DesktopPublish\PasswordStore\en-US\PasswordStore.resources.dll
+F:\Archive Source\KapitvationDev\Desktop - Copy\Desktop.UI.Main\obj\Release\ResolveAssemblyReference.cache
+F:\Archive Source\KapitvationDev\Desktop - Copy\Desktop.UI.Main\obj\Release\Desktop.UI.AddPassword.resources
+F:\Archive Source\KapitvationDev\Desktop - Copy\Desktop.UI.Main\obj\Release\Desktop.UI.MainApp.resources
+F:\Archive Source\KapitvationDev\Desktop - Copy\Desktop.UI.Main\obj\Release\Desktop.UI.PasswordSafe.resources
+F:\Archive Source\KapitvationDev\Desktop - Copy\Desktop.UI.Main\obj\Release\Desktop.UI.Properties.Resources.resources
+F:\Archive Source\KapitvationDev\Desktop - Copy\Desktop.UI.Main\obj\Release\Desktop.UI.Splash.resources
+F:\Archive Source\KapitvationDev\Desktop - Copy\Desktop.UI.Main\obj\Release\Desktop.UI.MainApp.en-US.resources
+F:\Archive Source\KapitvationDev\Desktop - Copy\Desktop.UI.Main\obj\Release\ResGen.read.1.tlog
+F:\Archive Source\KapitvationDev\Desktop - Copy\Desktop.UI.Main\obj\Release\ResGen.write.1.tlog
+F:\Archive Source\KapitvationDev\Desktop - Copy\Desktop.UI.Main\obj\Release\en-US\PasswordStore.resources.dll
+F:\Archive Source\KapitvationDev\Desktop - Copy\Desktop.UI.Main\obj\Release\PasswordStore.exe

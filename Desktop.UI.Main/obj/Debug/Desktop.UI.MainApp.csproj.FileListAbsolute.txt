@@ -1,0 +1,108 @@
+F:\Archive Source\KapitvationDev\DesktopPublish\PasswordStore\PasswordStore.exe.config
+F:\Archive Source\KapitvationDev\DesktopPublish\PasswordStore\PasswordStore.exe
+F:\Archive Source\KapitvationDev\DesktopPublish\PasswordStore\PasswordStore.pdb
+F:\Archive Source\KapitvationDev\DesktopPublish\PasswordStore\en-US\PasswordStore.resources.dll
+F:\Archive Source\KapitvationDev\Desktop - Copy\Desktop.UI.Main\obj\Debug\ResolveAssemblyReference.cache
+F:\Archive Source\KapitvationDev\Desktop - Copy\Desktop.UI.Main\obj\Debug\Desktop.UI.AddPassword.resources
+F:\Archive Source\KapitvationDev\Desktop - Copy\Desktop.UI.Main\obj\Debug\Desktop.UI.MainApp.resources
+F:\Archive Source\KapitvationDev\Desktop - Copy\Desktop.UI.Main\obj\Debug\Desktop.UI.PasswordSafe.resources
+F:\Archive Source\KapitvationDev\Desktop - Copy\Desktop.UI.Main\obj\Debug\Desktop.UI.Properties.Resources.resources
+F:\Archive Source\KapitvationDev\Desktop - Copy\Desktop.UI.Main\obj\Debug\Desktop.UI.Splash.resources
+F:\Archive Source\KapitvationDev\Desktop - Copy\Desktop.UI.Main\obj\Debug\Desktop.UI.MainApp.en-US.resources
+F:\Archive Source\KapitvationDev\Desktop - Copy\Desktop.UI.Main\obj\Debug\ResGen.read.1.tlog
+F:\Archive Source\KapitvationDev\Desktop - Copy\Desktop.UI.Main\obj\Debug\ResGen.write.1.tlog
+F:\Archive Source\KapitvationDev\Desktop - Copy\Desktop.UI.Main\obj\Debug\en-US\PasswordStore.resources.dll
+F:\Archive Source\KapitvationDev\Desktop - Copy\Desktop.UI.Main\obj\Debug\PasswordStore.exe
+F:\Archive Source\KapitvationDev\Desktop - Copy\Desktop.UI.Main\obj\Debug\PasswordStore.pdb
+C:\temp\PasswordStore\Desktop.UI.Main\obj\Debug\Desktop.UI.MainApp.csprojAssemblyReference.cache
+C:\temp\PasswordStore\Desktop.UI.Main\obj\Debug\Desktop.UI.AddPassword.resources
+C:\temp\PasswordStore\Desktop.UI.Main\obj\Debug\Desktop.UI.MainApp.resources
+C:\temp\PasswordStore\Desktop.UI.Main\obj\Debug\Desktop.UI.PasswordSafe.resources
+C:\temp\PasswordStore\Desktop.UI.Main\obj\Debug\Desktop.UI.Properties.Resources.resources
+C:\temp\PasswordStore\Desktop.UI.Main\obj\Debug\Desktop.UI.Splash.resources
+C:\temp\PasswordStore\Desktop.UI.Main\obj\Debug\Desktop.UI.MainApp.en-US.resources
+C:\temp\PasswordStore\Desktop.UI.Main\obj\Debug\Desktop.UI.MainApp.csproj.GenerateResource.cache
+C:\temp\PasswordStore\Desktop.UI.Main\obj\Debug\Desktop.UI.MainApp.csproj.CoreCompileInputs.cache
+C:\temp\PasswordStore\Desktop.UI.Main\obj\Debug\PasswordStore.exe
+C:\temp\PasswordStore\Desktop.UI.Main\obj\Debug\PasswordStore.pdb
+C:\temp\DesktopPublish\PasswordStore\PasswordStore.exe.config
+C:\temp\DesktopPublish\PasswordStore\PasswordStore.exe
+C:\temp\DesktopPublish\PasswordStore\PasswordStore.pdb
+C:\temp\DesktopPublish\PasswordStore\en-US\PasswordStore.resources.dll
+C:\temp\PasswordStore\Desktop.UI.Main\obj\Debug\en-US\PasswordStore.resources.dll
+C:\temp\PasswordStore\Desktop.UI.Main\obj\Debug\Desktop.UI.MainApp.csproj.CopyComplete
+C:\Paya\DesktopPublish\PasswordStore\PasswordStore.exe.config
+C:\Paya\DesktopPublish\PasswordStore\PasswordStore.exe
+C:\Paya\DesktopPublish\PasswordStore\PasswordStore.pdb
+C:\Paya\DesktopPublish\PasswordStore\en-US\PasswordStore.resources.dll
+C:\Paya\PasswordStore\Desktop.UI.Main\obj\Debug\Desktop.UI.AddPassword.resources
+C:\Paya\PasswordStore\Desktop.UI.Main\obj\Debug\Desktop.UI.MainApp.resources
+C:\Paya\PasswordStore\Desktop.UI.Main\obj\Debug\Desktop.UI.PasswordSafe.resources
+C:\Paya\PasswordStore\Desktop.UI.Main\obj\Debug\Desktop.UI.Properties.Resources.resources
+C:\Paya\PasswordStore\Desktop.UI.Main\obj\Debug\Desktop.UI.Splash.resources
+C:\Paya\PasswordStore\Desktop.UI.Main\obj\Debug\Desktop.UI.MainApp.en-US.resources
+C:\Paya\PasswordStore\Desktop.UI.Main\obj\Debug\Desktop.UI.MainApp.csproj.GenerateResource.cache
+C:\Paya\PasswordStore\Desktop.UI.Main\obj\Debug\Desktop.UI.MainApp.csproj.CoreCompileInputs.cache
+C:\Paya\PasswordStore\Desktop.UI.Main\obj\Debug\en-US\PasswordStore.resources.dll
+C:\Paya\PasswordStore\Desktop.UI.Main\obj\Debug\Desktop.UI.MainApp.csproj.CopyComplete
+C:\Paya\PasswordStore\Desktop.UI.Main\obj\Debug\PasswordStore.exe
+C:\Paya\PasswordStore\Desktop.UI.Main\obj\Debug\PasswordStore.pdb
+C:\Paya\PasswordStore\Publish\PasswordStore.exe.config
+C:\Paya\PasswordStore\Publish\PasswordStore.exe
+C:\Paya\PasswordStore\Publish\PasswordStore.pdb
+C:\Paya\PasswordStore\Publish\en-US\PasswordStore.resources.dll
+C:\Paya\PasswordStore\Desktop.UI.Main\obj\Debug\Desktop.UI.MainApp.csprojAssemblyReference.cache
+D:\Paya\Development\PasswordStore\Publish\PasswordStore.exe.config
+D:\Paya\Development\PasswordStore\Publish\PasswordStore.exe
+D:\Paya\Development\PasswordStore\Publish\PasswordStore.pdb
+D:\Paya\Development\PasswordStore\Publish\en-US\PasswordStore.resources.dll
+D:\Paya\Development\PasswordStore\Desktop.UI.Main\obj\Debug\Desktop.UI.MainApp.csprojAssemblyReference.cache
+D:\Paya\Development\PasswordStore\Desktop.UI.Main\obj\Debug\Desktop.UI.AddPassword.resources
+D:\Paya\Development\PasswordStore\Desktop.UI.Main\obj\Debug\Desktop.UI.MainApp.resources
+D:\Paya\Development\PasswordStore\Desktop.UI.Main\obj\Debug\Desktop.UI.PasswordSafe.resources
+D:\Paya\Development\PasswordStore\Desktop.UI.Main\obj\Debug\Desktop.UI.Properties.Resources.resources
+D:\Paya\Development\PasswordStore\Desktop.UI.Main\obj\Debug\Desktop.UI.Splash.resources
+D:\Paya\Development\PasswordStore\Desktop.UI.Main\obj\Debug\Desktop.UI.MainApp.en-US.resources
+D:\Paya\Development\PasswordStore\Desktop.UI.Main\obj\Debug\Desktop.UI.MainApp.csproj.GenerateResource.cache
+D:\Paya\Development\PasswordStore\Desktop.UI.Main\obj\Debug\Desktop.UI.MainApp.csproj.CoreCompileInputs.cache
+D:\Paya\Development\PasswordStore\Desktop.UI.Main\obj\Debug\en-US\PasswordStore.resources.dll
+D:\Paya\Development\PasswordStore\Desktop.UI.Main\obj\Debug\Desktop.UI.MainApp.csproj.CopyComplete
+D:\Paya\Development\PasswordStore\Desktop.UI.Main\obj\Debug\PasswordStore.exe
+D:\Paya\Development\PasswordStore\Desktop.UI.Main\obj\Debug\PasswordStore.pdb
+D:\Paya\Security\PasswordStore\Desktop.UI.Main\obj\Debug\Desktop.UI.AddPassword.resources
+D:\Paya\Security\PasswordStore\Desktop.UI.Main\obj\Debug\Desktop.UI.MainApp.resources
+D:\Paya\Security\PasswordStore\Desktop.UI.Main\obj\Debug\Desktop.UI.PasswordSafe.resources
+D:\Paya\Security\PasswordStore\Desktop.UI.Main\obj\Debug\Desktop.UI.Properties.Resources.resources
+D:\Paya\Security\PasswordStore\Desktop.UI.Main\obj\Debug\Desktop.UI.Splash.resources
+D:\Paya\Security\PasswordStore\Desktop.UI.Main\obj\Debug\Desktop.UI.MainApp.en-US.resources
+D:\Paya\Security\PasswordStore\Desktop.UI.Main\obj\Debug\Desktop.UI.MainApp.csproj.GenerateResource.cache
+D:\Paya\Security\PasswordStore\Desktop.UI.Main\obj\Debug\Desktop.UI.MainApp.csproj.CoreCompileInputs.cache
+D:\Paya\Security\PasswordStore\Desktop.UI.Main\obj\Debug\PasswordStore.exe
+D:\Paya\Security\PasswordStore\Desktop.UI.Main\obj\Debug\PasswordStore.pdb
+D:\Paya\Security\PasswordStore\Publish\PasswordStore.exe.config
+D:\Paya\Security\PasswordStore\Publish\PasswordStore.exe
+D:\Paya\Security\PasswordStore\Publish\PasswordStore.pdb
+D:\Paya\Security\PasswordStore\Publish\en-US\PasswordStore.resources.dll
+D:\Paya\Security\PasswordStore\Desktop.UI.Main\obj\Debug\en-US\PasswordStore.resources.dll
+D:\Paya\Security\PasswordStore\Desktop.UI.Main\obj\Debug\Desktop.UI.MainApp.csproj.CopyComplete
+A:\Work_OneDrive\OneDrive - Paya\Learning\C#\PasswordStore\Publish\PasswordStore.exe.config
+A:\Work_OneDrive\OneDrive - Paya\Learning\C#\PasswordStore\Publish\PasswordStore.exe
+A:\Work_OneDrive\OneDrive - Paya\Learning\C#\PasswordStore\Publish\PasswordStore.pdb
+A:\Work_OneDrive\OneDrive - Paya\Learning\C#\PasswordStore\Publish\en-US\PasswordStore.resources.dll
+A:\Work_OneDrive\OneDrive - Paya\Learning\C#\PasswordStore\Desktop.UI.Main\obj\Debug\Desktop.UI.MainApp.csprojAssemblyReference.cache
+A:\Work_OneDrive\OneDrive - Paya\Learning\C#\PasswordStore\Desktop.UI.Main\obj\Debug\Desktop.UI.AddPassword.resources
+A:\Work_OneDrive\OneDrive - Paya\Learning\C#\PasswordStore\Desktop.UI.Main\obj\Debug\Desktop.UI.MainApp.resources
+A:\Work_OneDrive\OneDrive - Paya\Learning\C#\PasswordStore\Desktop.UI.Main\obj\Debug\Desktop.UI.PasswordSafe.resources
+A:\Work_OneDrive\OneDrive - Paya\Learning\C#\PasswordStore\Desktop.UI.Main\obj\Debug\Desktop.UI.Properties.Resources.resources
+A:\Work_OneDrive\OneDrive - Paya\Learning\C#\PasswordStore\Desktop.UI.Main\obj\Debug\Desktop.UI.Splash.resources
+A:\Work_OneDrive\OneDrive - Paya\Learning\C#\PasswordStore\Desktop.UI.Main\obj\Debug\Desktop.UI.MainApp.en-US.resources
+A:\Work_OneDrive\OneDrive - Paya\Learning\C#\PasswordStore\Desktop.UI.Main\obj\Debug\Desktop.UI.MainApp.csproj.GenerateResource.cache
+A:\Work_OneDrive\OneDrive - Paya\Learning\C#\PasswordStore\Desktop.UI.Main\obj\Debug\Desktop.UI.MainApp.csproj.CoreCompileInputs.cache
+A:\Work_OneDrive\OneDrive - Paya\Learning\C#\PasswordStore\Desktop.UI.Main\obj\Debug\en-US\PasswordStore.resources.dll
+A:\Work_OneDrive\OneDrive - Paya\Learning\C#\PasswordStore\Desktop.UI.Main\obj\Debug\Desktop.UI.MainApp.csproj.CopyComplete
+A:\Work_OneDrive\OneDrive - Paya\Learning\C#\PasswordStore\Desktop.UI.Main\obj\Debug\PasswordStore.exe
+A:\Work_OneDrive\OneDrive - Paya\Learning\C#\PasswordStore\Desktop.UI.Main\obj\Debug\PasswordStore.pdb
+A:\Work_OneDrive\OneDrive - Paya\Learning\C#\PasswordStore\Publish\PasswordStore.exe.manifest
+A:\Work_OneDrive\OneDrive - Paya\Learning\C#\PasswordStore\Publish\PasswordStore.application
+A:\Work_OneDrive\OneDrive - Paya\Learning\C#\PasswordStore\Desktop.UI.Main\obj\Debug\PasswordStore.exe.manifest
+A:\Work_OneDrive\OneDrive - Paya\Learning\C#\PasswordStore\Desktop.UI.Main\obj\Debug\PasswordStore.application
